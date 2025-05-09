@@ -26,7 +26,7 @@ Time Oriented Functional Utillity Language — Compiled programming language  �
 
 Time Oriented Functional Utillity Language (TOFULANGUAGE) é uma linguagem de programação compilada, de alto nível, inspirada na elegância e na simplicidade do Ruby. Criada com propósito acadêmico e experimental, seu foco é explorar estruturas de compiladores modernos com uma sintaxe amigável, limpa e expressiva.
 
-![Logo](TofuLogo.jpeg) 
+![Logo](LOGOTOFU) 
 
 ---
 
